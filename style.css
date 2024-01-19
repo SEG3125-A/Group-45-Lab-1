@@ -119,12 +119,6 @@ button:hover {
     width: 100%;
 }
 
-/* Container needed to position the button. Adjust the width as needed */
-.container {
-    position: relative;
-    width:95%;
-  }
-  
   /* Make the image responsive */
   .container img {
     width: 100%;
